@@ -6,10 +6,7 @@ import random
 from ast import literal_eval
 
 import numpy as np
-import math
 import torch
-
-# -----------------------------------------------------------------------------
 
 def set_seed(seed):
     random.seed(seed)
