@@ -142,6 +142,10 @@ Papers + some implementation notes:
 - iGPT-S lr 0.003
 - No dropout is used.
 
+
+#### MLIP
+This repo looks amazing : )
+
 ### License
 
 MIT
