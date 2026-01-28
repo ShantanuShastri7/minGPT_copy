@@ -5,9 +5,6 @@ import json
 import random
 from ast import literal_eval
 
-import numpy as np
-import torch
-
 # -----------------------------------------------------------------------------
 
 def set_seed(seed):
