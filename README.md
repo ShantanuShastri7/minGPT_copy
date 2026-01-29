@@ -149,4 +149,3 @@ MIT
 Training parameters: Batch size 128
 .
  
-print('DEBUG: This should not be here')
